@@ -35,7 +35,7 @@ body {
 }
 
 .room input {
-  width: 200px;
+  width: 500px;
   height: 30px;
   border: 2px solid rgb(0, 145, 255);
   border-radius: 6px;
@@ -45,7 +45,7 @@ body {
   margin: 5px;
 }
 .room button {
-  width: 210px;
+  width: 510px;
   height: 40px;
   border: none;
   border-radius: 6px;
